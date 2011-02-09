@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>example</title>
+    <expansionState>0,1,2,9,10,13,17,18,20,22,24,26</expansionState>
+  </head>
+  <body>
+    <outline text="Similar concepts">
+      <outline>
+        <outline text="This section is to outline similar concepts that we might have come across. We can discuss">
+          <outline text="How they are similar"/>
+          <outline text="How they differ"/>
+          <outline text="What we can learn from them"/>
+          <outline text="What we can improve on"/>
+          <outline text="Other questions "/>
+        </outline>
+        <outline text="Try to use this as a basic outline of how you approach your appraisal of each example. Feel free to modify this list as you see fit."/>
+      </outline>
+      <outline text="Futurists">
+        <outline text="Some information :">
+          <outline text="http://en.wikipedia.org/wiki/Futurist"/>
+        </outline>
+        <outline text="These are the pundits that Fergus talks about. Those people who are defining / shaping the future in a reactionary way - this is happening, therefore we're heading to this outcome."/>
+        <outline text="Some examples">
+          <outline text="http://worldfutureforum.com/"/>
+          <outline text="http://www.wfs.org/inter.htm"/>
+          <outline text="Futurist magazine"/>
+        </outline>
+        <outline>
+          <outline text="How are they similar?">
+            <outline text="Both looking at the future"/>
+          </outline>
+          <outline text="How do they differ?">
+            <outline text="Backtracing versus forward"/>
+          </outline>
+          <outline text="What can we learn from them?">
+            <outline text="..."/>
+          </outline>
+          <outline text="What can we improve on?">
+            <outline text="..."/>
+          </outline>
+          <outline text="Other questions">
+            <outline text="Will we ever work with these guys?"/>
+          </outline>
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>
