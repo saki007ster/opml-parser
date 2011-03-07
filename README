@@ -1,0 +1,23 @@
+OPML Parser
+=======================================================================================================================
+
+What is OPML?
+=>>>>
+OPML (Outline Processor Markup Language) is an XML format for outlines (defined as "a tree, where each node contains a set of named attributes with string values"). Originally developed by Radio UserLand as a native file format for an outliner application, it has since been adopted for other uses, the most common being to exchange lists of web feeds between web feed aggregators.
+
+=========================================
+
+OPML Parser
+=>>>>>
+This parses any OPML file and generates a human-readable html file. This can be used display the html formatted opml by the web feeds. This script takes the .opml file as the input and outputs a html for the same in a different file.
+
+=========================================
+
+Usage
+=>>>>>
+Run the php script sc4.php with the input opml file as the argument.
+
+            ./sc4.php <the opml filename>  //  .sc4.php example.opml
+            
+       and a file output.html will be generated containing the html format.
+========================================================================================================================== 
